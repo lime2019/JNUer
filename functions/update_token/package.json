@@ -1,0 +1,13 @@
+{
+  "name": "update_token",
+  "version": "1.0.0",
+  "description": "更新人员token",
+  "main": "index.js",
+  "author": "lime2019@qq.com",
+  "license": "MIT",
+  "dependencies": {
+    "@cloudbase/node-sdk": "^2.4.0",
+    "axios": "^0.21.0",
+    "qs": "^6.9.4"
+  }
+}

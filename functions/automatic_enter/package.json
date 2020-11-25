@@ -1,0 +1,13 @@
+{
+  "name": "automatic_enter",
+  "version": "2.0.0",
+  "description": "学校第二课堂自动报名",
+  "main": "index.js",
+  "author": "lime2019@qq.com",
+  "license": "MIT",
+  "dependencies": {
+    "@cloudbase/node-sdk": "^2.4.0",
+    "axios": "^0.21.0",
+    "nodemailer": "^6.4.16"
+  }
+}
